@@ -1,4 +1,1 @@
-# Crime-Prediction-Tool
-AI SaaS solution predicts when and where a crime event could happen in Toronto area. The the backed APIs is built using python and frontend code is developed using ReactJS.
-
-![Screenshot](image.gif)
+[![Run on Repl.it](https://repl.it/badge/github/karawash/Crime-Prediction-App)](https://repl.it/github/karawash/Crime-Prediction-App)
