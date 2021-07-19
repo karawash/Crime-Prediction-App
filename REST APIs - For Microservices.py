@@ -6,6 +6,7 @@ from flask.json import jsonify
 from flask_cors import CORS
 import json
 from flasgger import Swagger
+
 # install
 # pip install flask flask-jsonpify flask-sqlalchemy flask-restful flask_cors flasgger
 
